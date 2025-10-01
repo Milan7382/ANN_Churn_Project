@@ -1,0 +1,164 @@
+2025-10-01 13:18:03,662 - INFO - App started
+2025-10-01 13:18:03,662 - INFO - Title set
+2025-10-01 13:18:04,161 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:04,164 - INFO - Model loaded
+2025-10-01 13:18:04,165 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:04,166 - INFO - User input collected
+2025-10-01 13:18:04,175 - INFO - Input data prepared
+2025-10-01 13:18:04,176 - INFO - Input data scaled
+2025-10-01 13:18:04,630 - INFO - Prediction completed
+2025-10-01 13:18:32,212 - INFO - App started
+2025-10-01 13:18:32,214 - INFO - Title set
+2025-10-01 13:18:32,293 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:32,296 - INFO - Model loaded
+2025-10-01 13:18:32,296 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:32,298 - INFO - User input collected
+2025-10-01 13:18:32,299 - INFO - Input data prepared
+2025-10-01 13:18:32,300 - INFO - Input data scaled
+2025-10-01 13:18:32,340 - INFO - Prediction completed
+2025-10-01 13:18:41,497 - INFO - App started
+2025-10-01 13:18:41,498 - INFO - Title set
+2025-10-01 13:18:41,580 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:41,582 - INFO - Model loaded
+2025-10-01 13:18:41,582 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:41,584 - INFO - User input collected
+2025-10-01 13:18:41,585 - INFO - Input data prepared
+2025-10-01 13:18:41,586 - INFO - Input data scaled
+2025-10-01 13:18:41,624 - INFO - Prediction completed
+2025-10-01 13:18:47,514 - INFO - App started
+2025-10-01 13:18:47,515 - INFO - Title set
+2025-10-01 13:18:47,599 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:47,601 - INFO - Model loaded
+2025-10-01 13:18:47,601 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:47,603 - INFO - User input collected
+2025-10-01 13:18:47,604 - INFO - Input data prepared
+2025-10-01 13:18:47,605 - INFO - Input data scaled
+2025-10-01 13:18:47,646 - INFO - Prediction completed
+2025-10-01 13:18:52,721 - INFO - App started
+2025-10-01 13:18:52,722 - INFO - Title set
+2025-10-01 13:18:52,810 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:52,812 - INFO - Model loaded
+2025-10-01 13:18:52,813 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:52,814 - INFO - User input collected
+2025-10-01 13:18:52,815 - INFO - Input data prepared
+2025-10-01 13:18:52,816 - INFO - Input data scaled
+2025-10-01 13:18:52,848 - WARNING - 5 out of the last 5 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x3456eff60> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-10-01 13:18:52,855 - INFO - Prediction completed
+2025-10-01 13:18:55,097 - INFO - App started
+2025-10-01 13:18:55,098 - INFO - Title set
+2025-10-01 13:18:55,179 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:55,182 - INFO - Model loaded
+2025-10-01 13:18:55,182 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:55,184 - INFO - User input collected
+2025-10-01 13:18:55,185 - INFO - Input data prepared
+2025-10-01 13:18:55,186 - INFO - Input data scaled
+2025-10-01 13:18:55,218 - WARNING - 6 out of the last 6 calls to <function TensorFlowTrainer.make_predict_function.<locals>.one_step_on_data_distributed at 0x3456ec2c0> triggered tf.function retracing. Tracing is expensive and the excessive number of tracings could be due to (1) creating @tf.function repeatedly in a loop, (2) passing tensors with different shapes, (3) passing Python objects instead of tensors. For (1), please define your @tf.function outside of the loop. For (2), @tf.function has reduce_retracing=True option that can avoid unnecessary retracing. For (3), please refer to https://www.tensorflow.org/guide/function#controlling_retracing and https://www.tensorflow.org/api_docs/python/tf/function for  more details.
+2025-10-01 13:18:55,225 - INFO - Prediction completed
+2025-10-01 13:18:57,961 - INFO - App started
+2025-10-01 13:18:57,963 - INFO - Title set
+2025-10-01 13:18:58,042 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:18:58,044 - INFO - Model loaded
+2025-10-01 13:18:58,044 - INFO - Encoders and scaler loaded
+2025-10-01 13:18:58,046 - INFO - User input collected
+2025-10-01 13:18:58,047 - INFO - Input data prepared
+2025-10-01 13:18:58,048 - INFO - Input data scaled
+2025-10-01 13:18:58,089 - INFO - Prediction completed
+2025-10-01 13:19:09,719 - INFO - App started
+2025-10-01 13:19:09,719 - INFO - Title set
+2025-10-01 13:19:09,796 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:19:09,799 - INFO - Model loaded
+2025-10-01 13:19:09,800 - INFO - Encoders and scaler loaded
+2025-10-01 13:19:09,801 - INFO - User input collected
+2025-10-01 13:19:09,803 - INFO - Input data prepared
+2025-10-01 13:19:09,804 - INFO - Input data scaled
+2025-10-01 13:19:09,844 - INFO - Prediction completed
+2025-10-01 13:19:13,617 - INFO - App started
+2025-10-01 13:19:13,618 - INFO - Title set
+2025-10-01 13:19:13,696 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:19:13,698 - INFO - Model loaded
+2025-10-01 13:19:13,698 - INFO - Encoders and scaler loaded
+2025-10-01 13:19:13,700 - INFO - User input collected
+2025-10-01 13:19:13,701 - INFO - Input data prepared
+2025-10-01 13:19:13,702 - INFO - Input data scaled
+2025-10-01 13:19:13,742 - INFO - Prediction completed
+2025-10-01 13:20:44,338 - INFO - App started
+2025-10-01 13:20:44,340 - INFO - Title set
+2025-10-01 13:20:44,418 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:20:44,420 - INFO - Model loaded
+2025-10-01 13:20:44,421 - INFO - Encoders and scaler loaded
+2025-10-01 13:20:44,423 - INFO - User input collected
+2025-10-01 13:20:44,424 - INFO - Input data prepared
+2025-10-01 13:20:44,425 - INFO - Input data scaled
+2025-10-01 13:20:44,461 - INFO - Prediction completed
+2025-10-01 13:22:00,708 - INFO - App started
+2025-10-01 13:22:00,709 - INFO - Title set
+2025-10-01 13:22:00,796 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:22:00,798 - INFO - Model loaded
+2025-10-01 13:22:00,799 - INFO - Encoders and scaler loaded
+2025-10-01 13:22:00,801 - INFO - User input collected
+2025-10-01 13:22:00,803 - INFO - Input data prepared
+2025-10-01 13:22:00,803 - INFO - Input data scaled
+2025-10-01 13:22:00,840 - INFO - Prediction completed
+2025-10-01 13:22:13,791 - INFO - App started
+2025-10-01 13:22:13,792 - INFO - Title set
+2025-10-01 13:22:13,878 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:22:13,880 - INFO - Model loaded
+2025-10-01 13:22:13,880 - INFO - Encoders and scaler loaded
+2025-10-01 13:22:13,882 - INFO - User input collected
+2025-10-01 13:22:13,883 - INFO - Input data prepared
+2025-10-01 13:22:13,884 - INFO - Input data scaled
+2025-10-01 13:22:13,924 - INFO - Prediction completed
+2025-10-01 13:22:16,056 - INFO - App started
+2025-10-01 13:22:16,057 - INFO - Title set
+2025-10-01 13:22:16,142 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:22:16,144 - INFO - Model loaded
+2025-10-01 13:22:16,144 - INFO - Encoders and scaler loaded
+2025-10-01 13:22:16,146 - INFO - User input collected
+2025-10-01 13:22:16,147 - INFO - Input data prepared
+2025-10-01 13:22:16,148 - INFO - Input data scaled
+2025-10-01 13:22:16,185 - INFO - Prediction completed
+2025-10-01 13:22:26,286 - INFO - App started
+2025-10-01 13:22:26,287 - INFO - Title set
+2025-10-01 13:22:26,375 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:22:26,378 - INFO - Model loaded
+2025-10-01 13:22:26,378 - INFO - Encoders and scaler loaded
+2025-10-01 13:22:26,380 - INFO - User input collected
+2025-10-01 13:22:26,381 - INFO - Input data prepared
+2025-10-01 13:22:26,381 - INFO - Input data scaled
+2025-10-01 13:22:26,418 - INFO - Prediction completed
+2025-10-01 13:22:54,709 - INFO - App started
+2025-10-01 13:22:54,710 - INFO - Title set
+2025-10-01 13:22:54,792 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:22:54,794 - INFO - Model loaded
+2025-10-01 13:22:54,795 - INFO - Encoders and scaler loaded
+2025-10-01 13:22:54,797 - INFO - User input collected
+2025-10-01 13:22:54,798 - INFO - Input data prepared
+2025-10-01 13:22:54,799 - INFO - Input data scaled
+2025-10-01 13:22:54,837 - INFO - Prediction completed
+2025-10-01 13:24:00,796 - INFO - App started
+2025-10-01 13:24:00,798 - INFO - Title set
+2025-10-01 13:24:00,878 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:24:00,881 - INFO - Model loaded
+2025-10-01 13:24:00,881 - INFO - Encoders and scaler loaded
+2025-10-01 13:24:00,883 - INFO - User input collected
+2025-10-01 13:24:00,884 - INFO - Input data prepared
+2025-10-01 13:24:00,885 - INFO - Input data scaled
+2025-10-01 13:24:00,921 - INFO - Prediction completed
+2025-10-01 13:24:20,779 - INFO - App started
+2025-10-01 13:24:20,781 - INFO - Title set
+2025-10-01 13:24:20,863 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:24:20,865 - INFO - Model loaded
+2025-10-01 13:24:20,865 - INFO - Encoders and scaler loaded
+2025-10-01 13:24:20,866 - INFO - User input collected
+2025-10-01 13:24:20,868 - INFO - Input data prepared
+2025-10-01 13:24:20,868 - INFO - Input data scaled
+2025-10-01 13:24:20,906 - INFO - Prediction completed
+2025-10-01 13:25:17,194 - INFO - App started
+2025-10-01 13:25:17,195 - INFO - Title set
+2025-10-01 13:25:17,275 - WARNING - Compiled the loaded model, but the compiled metrics have yet to be built. `model.compile_metrics` will be empty until you train or evaluate the model.
+2025-10-01 13:25:17,279 - INFO - Model loaded
+2025-10-01 13:25:17,279 - INFO - Encoders and scaler loaded
+2025-10-01 13:25:17,280 - INFO - User input collected
+2025-10-01 13:25:17,282 - INFO - Input data prepared
+2025-10-01 13:25:17,282 - INFO - Input data scaled
+2025-10-01 13:25:17,316 - INFO - Prediction completed
